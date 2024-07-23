@@ -1,4 +1,5 @@
 import Part1 from "@/components/Part1";
+import Searchbar from "@/components/Searchbar";
 import Image from "next/image";
 
 export default function Home() {
@@ -29,6 +30,10 @@ export default function Home() {
       </div> */}
       <div>
         <Part1 />
+
+      </div>
+      <div className="m-8 flex flex-col justify-center max-w-lg">
+        <Searchbar />
       </div>
     </div>
   );
