@@ -8,9 +8,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        main1: "url(/images/chinese-chicken.webp)",
+        main2: "url(/images/onion parora.webp)",
+        main3: "url(/images/Palaak Paneer.webp)",
+        main4: "url(/images/pexels-chanwalrus-958545.jpg)",
+        main5: "url(/images/pexels-janetrangdoan-1128678.jpg)",
       },
     },
   },
