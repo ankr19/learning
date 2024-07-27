@@ -29,7 +29,7 @@ export default function Home() {
       </div>
       </div> */}
       <div>
-        <Part1 />
+        {/* <Part1 /> */}
 
       </div>
       <div className="m-8 flex flex-col justify-center max-w-lg">
